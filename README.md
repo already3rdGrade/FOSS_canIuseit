@@ -5,10 +5,9 @@ can I use it ?</br>
 
 <hr>
 
-24.10.30 > </br>
+[24.10.30] 준희 </br>
 소프트웨어 경진대회 최종본 버전으로 레파지토리 기본 세팅 마쳤습니다 !! </br>
 관련 문의는 카카오톡도 좋고 workjh77@gmail.com 으로 보내주셔도 됩니다 </br>
-- 준희</br></br>
 
 24년 10월 30일 현재 organization 레파지토리 구분은 다음과 같습니다
 ![image](https://github.com/user-attachments/assets/86e78869-c185-48a4-bd63-519139788611)</br>
