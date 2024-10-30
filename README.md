@@ -1,19 +1,21 @@
 ### Can I Use It ?
 </br>
-team - Already 3rd grade </br>
-project - can I use it ?</br>
+오픈소스 소프트웨어 </br>
+can I use it ?</br>
 
 <hr>
-1. </br>
-하단에 메세지 남기는 방식으로 </br>
-깃허브 vscode 연동 , pull commit push 테스트 해보세요</br>
-관련 질문은 캡처해서 저에게 디코 연락 주세요 :)
-</br>
-2.</br>
-작업은 메인 브랜치가 아니라 </br>
-반드시 본인 팀 브랜치 (FE 또는 BE) 에서 진행해주세요 ~
+
+24.10.30 > </br>
+소프트웨어 경진대회 최종본 버전으로 레파지토리 기본 세팅 마쳤습니다 !! </br>
+관련 문의는 카카오톡도 좋고 workjh77@gmail.com 으로 보내주셔도 됩니다 </br>
 </br>- 준희</br></br>
-24.08.16 > final - main 브랜치로 모두 통합했습니다 !
+
+24년 10월 30일 현재 organization 레파지토리 구분은 다음과 같습니다
+![image](https://github.com/user-attachments/assets/86e78869-c185-48a4-bd63-519139788611)</br>
+- FOSS_canIuseit : 오픈소스 소프트웨어 수업용 (초기 세팅 버전 : 소프트웨어 경진대회 최종 제출본)
+- swcontest_canIuseit : 소프트웨어 경진대회 최종 제출본 (초기 세팅 버전 : 준희 개인 레파지토리의 서구실 최종본)
+- ex.canIuseit : 서버시스템구축실습 수업용 (초기 세팅 버전 : 준희 개인 레파지토리의 일반)
+
 </br>
 <hr>
 </br>
